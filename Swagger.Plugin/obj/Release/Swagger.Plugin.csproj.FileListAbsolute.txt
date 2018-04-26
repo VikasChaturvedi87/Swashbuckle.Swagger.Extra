@@ -1,0 +1,12 @@
+D:\Vikas Chaturvedi\Personal\Local Git\Swagger.Plugin\Swagger.Plugin\bin\Release\Swagger.Plugin.dll
+D:\Vikas Chaturvedi\Personal\Local Git\Swagger.Plugin\Swagger.Plugin\bin\Release\Swagger.Plugin.pdb
+D:\Vikas Chaturvedi\Personal\Local Git\Swagger.Plugin\Swagger.Plugin\bin\Release\Newtonsoft.Json.dll
+D:\Vikas Chaturvedi\Personal\Local Git\Swagger.Plugin\Swagger.Plugin\bin\Release\Swashbuckle.Core.dll
+D:\Vikas Chaturvedi\Personal\Local Git\Swagger.Plugin\Swagger.Plugin\bin\Release\System.Net.Http.Formatting.dll
+D:\Vikas Chaturvedi\Personal\Local Git\Swagger.Plugin\Swagger.Plugin\bin\Release\System.Web.Http.dll
+D:\Vikas Chaturvedi\Personal\Local Git\Swagger.Plugin\Swagger.Plugin\bin\Release\Newtonsoft.Json.xml
+D:\Vikas Chaturvedi\Personal\Local Git\Swagger.Plugin\Swagger.Plugin\bin\Release\System.Net.Http.Formatting.xml
+D:\Vikas Chaturvedi\Personal\Local Git\Swagger.Plugin\Swagger.Plugin\bin\Release\System.Web.Http.xml
+D:\Vikas Chaturvedi\Personal\Local Git\Swagger.Plugin\Swagger.Plugin\obj\Release\Swagger.Plugin.csprojResolveAssemblyReference.cache
+D:\Vikas Chaturvedi\Personal\Local Git\Swagger.Plugin\Swagger.Plugin\obj\Release\Swagger.Plugin.dll
+D:\Vikas Chaturvedi\Personal\Local Git\Swagger.Plugin\Swagger.Plugin\obj\Release\Swagger.Plugin.pdb

@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Swagger.Plugin</id>
+    <version>1.0.0</version>
+    <authors>Vikas.Chaturvedi</authors>
+    <owners>Vikas.Chaturvedi</owners>
+    <licenseUrl>https://github.com/VikasChaturvedi87/Swashbuckle.Swagger.Extra/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/VikasChaturvedi87/Swashbuckle.Swagger.Extra</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Swagger.Plugin can be used for easy integration of Swagger’s Json file to AWS Web API Gateway</description>
+    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags>AWS Web API Gateway, Swagger Importer, AWS Intigration</tags>
+    <dependencies>
+      <dependency id="Swashbuckle" version="5.5.3" />
+	  <dependency id="Swashbuckle.Core" version="5.5.3" />
+    </dependencies>
+  </metadata>
+  <files>
+		 <file src="lib\**" target="lib" />
+   </files>
+</package>

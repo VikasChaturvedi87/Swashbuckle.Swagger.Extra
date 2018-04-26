@@ -1,0 +1,12 @@
+D:\Vikas Chaturvedi\Personal\Local Git\Swashbuckle.Swagger.Extra\Swashbuckle.Swagger.Extra\bin\Debug\Swashbuckle.Swagger.Extra.dll
+D:\Vikas Chaturvedi\Personal\Local Git\Swashbuckle.Swagger.Extra\Swashbuckle.Swagger.Extra\bin\Debug\Swashbuckle.Swagger.Extra.pdb
+D:\Vikas Chaturvedi\Personal\Local Git\Swashbuckle.Swagger.Extra\Swashbuckle.Swagger.Extra\bin\Debug\Newtonsoft.Json.dll
+D:\Vikas Chaturvedi\Personal\Local Git\Swashbuckle.Swagger.Extra\Swashbuckle.Swagger.Extra\bin\Debug\Swashbuckle.Core.dll
+D:\Vikas Chaturvedi\Personal\Local Git\Swashbuckle.Swagger.Extra\Swashbuckle.Swagger.Extra\bin\Debug\System.Net.Http.Formatting.dll
+D:\Vikas Chaturvedi\Personal\Local Git\Swashbuckle.Swagger.Extra\Swashbuckle.Swagger.Extra\bin\Debug\System.Web.Http.dll
+D:\Vikas Chaturvedi\Personal\Local Git\Swashbuckle.Swagger.Extra\Swashbuckle.Swagger.Extra\bin\Debug\Newtonsoft.Json.xml
+D:\Vikas Chaturvedi\Personal\Local Git\Swashbuckle.Swagger.Extra\Swashbuckle.Swagger.Extra\bin\Debug\System.Net.Http.Formatting.xml
+D:\Vikas Chaturvedi\Personal\Local Git\Swashbuckle.Swagger.Extra\Swashbuckle.Swagger.Extra\bin\Debug\System.Web.Http.xml
+D:\Vikas Chaturvedi\Personal\Local Git\Swashbuckle.Swagger.Extra\Swashbuckle.Swagger.Extra\obj\Debug\Swashbuckle.Swagger.Extra.csprojResolveAssemblyReference.cache
+D:\Vikas Chaturvedi\Personal\Local Git\Swashbuckle.Swagger.Extra\Swashbuckle.Swagger.Extra\obj\Debug\Swashbuckle.Swagger.Extra.dll
+D:\Vikas Chaturvedi\Personal\Local Git\Swashbuckle.Swagger.Extra\Swashbuckle.Swagger.Extra\obj\Debug\Swashbuckle.Swagger.Extra.pdb
