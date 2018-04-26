@@ -11,7 +11,7 @@ Swagger.Plugin is a *OperationFilter* for **Swagger**. It can easily modify Swag
 
 Install from Nuget, use below command to get reference  
 
-    Install-Package Swagger.Plugin -Version 1.0.1
+    Install-Package Swagger.Plugin -Version 1.0.2
 
 Open SwaggerConfig.cs file in _~/App_Start_ Use below code to have _x-amazon-apigateway-integration_ in swagger Json file.
 ```javascript
