@@ -1,4 +1,4 @@
-﻿using System.Collections.Generic;
+using System.Collections.Generic;
 using System.Web;
 using System.Web.Http.Description;
 using Swashbuckle.Swagger;
@@ -12,7 +12,7 @@ namespace Swagger.Plugin.AWS {
         /// <value>
         /// The integration settings.
         /// </value>
-        public  static ApiGatewayIntegrationSettings IntegrationSettings { get; set; }
+        public static ApiGatewayIntegrationSettings IntegrationSettings { get; set; }
 
         /// <summary>
         /// Applies the specified operation.
@@ -54,7 +54,8 @@ namespace Swagger.Plugin.AWS {
                 response.Value.description = response.Key;
 
                 foreach (var allowedAccessControl in IntegrationSettings.allowedAccessControl.GetAllowedAccessControls()) {
-                    response.Value.headers.Add(allowedAccessControl, new Header() { type = "string" });
+                    if (!response.Value.headers.ContainsKey(allowedAccessControl))
+                        response.Value.headers.Add(allowedAccessControl, new Header() { type = "string" });
                 }
 
             }
